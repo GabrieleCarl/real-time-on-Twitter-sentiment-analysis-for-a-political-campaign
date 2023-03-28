@@ -1,4 +1,3 @@
-%md
 ## Sentiment Analysis su Twitter per una campagna politica
 
 Le elezioni presidenziali USA 2024 sono vicine e tu vieni assunto come data scientist ufficiale per la campagna elettorale di uno dei candidati favoriti: Dwayne "The Rock" Johnson.
