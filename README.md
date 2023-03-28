@@ -9,3 +9,11 @@ Il miglior canale da utilizzare è Twitter, social network utilizzato quotidiana
 Quello che dovrai realizzare è un sistema di sentiment analysis, in grado di analizzare in tempo reale i tweet pubblicati avendo come argomento il candidato presidente Johnson.
 
 Il tuo software dovrà produrre come output un grafico a torta che mostra il sentiment in tempo reale verso il candidato.
+
+##### *NOTE*
+
+- Per semplicità non serve prendere in considerazione solo i tweet provenienti dagli USA, però vanno presi solo i tweet pubblicati in lingua inglese.
+
+- Per completare questo progetto dovrai utilizzare le API per sviluppatori di Twitter.
+
+- Per svolgere il progetto usa Databricks.
