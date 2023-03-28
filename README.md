@@ -17,3 +17,9 @@ Il tuo software dovrà produrre come output un grafico a torta che mostra il sen
 - Per completare questo progetto dovrai utilizzare le API per sviluppatori di Twitter.
 
 - Per svolgere il progetto usa Databricks.
+
+## Files nella repository
+
+- [Twitter connection and send the stream](https://github.com/GabrieleCarl/real-time-on-Twitter-sentiment-analysis-for-a-political-campaign/blob/main/send-stream%20API%20v2.ipynb)
+
+- [Stream reception, preprocessing and pie chart](https://github.com/GabrieleCarl/real-time-on-Twitter-sentiment-analysis-for-a-political-campaign/blob/main/receiving_tweets.ipynb)
